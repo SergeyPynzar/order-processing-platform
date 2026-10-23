@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: changelogs/2026-10-23-create_table_orders.sql
+      relativeToChangelogFile: true
